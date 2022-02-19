@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9Fc4d07B373b5775237b7C984086A3D25c554316",
+  "SCAN_LINK": "https://etherscan.io/address/0x9fc4d07b373b5775237b7c984086a3d25c554316",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "NFT MetaBots",
+  "SYMBOL": "MBS",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nft-metabots",
+  "SHOW_BACKGROUND": true
+}
